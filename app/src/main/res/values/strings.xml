@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scrcpy</string>
+    <string name="app_title">Scrcpy Control Center</string>
+    <string name="tab_overview">Overview</string>
+    <string name="tab_video">Video</string>
+    <string name="tab_audio">Audio</string>
+    <string name="tab_device">Diagnostics</string>
+    <string name="tab_connection">Wireless</string>
+</resources>

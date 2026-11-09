@@ -1,0 +1,6 @@
+{
+  "name": "Scrcpy",
+  "description": "Display and control Android devices with screen mirroring, audio forwarding, and connection tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
